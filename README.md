@@ -107,9 +107,32 @@ Bar and radar charts were used to visualize the overall performance of each mode
 ### 14. Ethical Considerations:
 - Prompting must avoid generating harmful, biased, or misleading content.
 - It is essential to always review model output before deployment, especially in sensitive areas like healthcare or legal advice.
-- 
 
-### 15. Summary of Findings:
+### 15. Result form various AI Chatbots:
+
+#### Prompt : *Write a short sci-fi story set on Mars involving AI and human colonists*
+##### ChatGPT:
+![image](https://github.com/user-attachments/assets/0674ff68-ff9d-422d-8a8b-b2c0b170ae45)
+![image](https://github.com/user-attachments/assets/66f02645-2265-44ca-a549-c78a5de5487d)
+
+===========================================================================================
+
+##### Gemini:
+![image](https://github.com/user-attachments/assets/ab7fd7e3-2177-45b0-9a77-b78fd96339d3)
+===========================================================================================
+
+##### Claude AI:
+![image](https://github.com/user-attachments/assets/aca36a88-8ca8-4347-9a9c-50fdfd032f91)
+
+===========================================================================================
+
+##### Grok AI:
+![image](https://github.com/user-attachments/assets/3c0402d6-710b-4da5-ae51-12cb84235961)
+
+===========================================================================================
+
+
+### 16. Summary of Findings:
 | Prompt Type         | Best Use Case       | Output Depth | Accuracy | Flexibility |
 | ------------------- | ------------------- | ------------ | -------- | ----------- |
 | Broad               | Creativity          | Low          | Medium   | High        |
